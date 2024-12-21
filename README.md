@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samridhx0
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in all things cyber-security
 - 🌱 I’m currently deep diving into networking, malware analysis, python and bash
 - 💞️ I’m looking to collaborate on any project that's interesting
